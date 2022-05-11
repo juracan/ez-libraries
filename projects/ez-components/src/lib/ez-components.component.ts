@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'ngx-ez-components',
   template: `
     <p>
-      Fresh and New!
+      Fresh and New! Again!
     </p>
   `,
   styles: [

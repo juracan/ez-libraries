@@ -1,16 +1,19 @@
 import { NgModule } from '@angular/core';
 import { EzComponentsComponent } from './ez-components.component';
+import { EzH1Component } from './ez-h1/ez-h1.component';
 
 
 
 @NgModule({
   declarations: [
-    EzComponentsComponent
+    EzComponentsComponent,
+    EzH1Component
   ],
   imports: [
   ],
   exports: [
-    EzComponentsComponent
+    EzComponentsComponent,
+    EzH1Component
   ]
 })
 export class EzComponentsModule { }
