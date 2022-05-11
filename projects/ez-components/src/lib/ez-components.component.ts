@@ -1,10 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'lib-ez-components',
+  selector: 'ngx-ez-components',
   template: `
     <p>
-      ez-components works!
+      Fresh and New!
     </p>
   `,
   styles: [
