@@ -7,9 +7,13 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "paths": {
-      "ez-components": [
-        "dist/ez-components/ez-components",
-        "dist/ez-components"
+      "ngx-ez-components": [
+        "dist/ngx-ez-components/ngx-ez-components",
+        "dist/ngx-ez-components"
+      ],
+      "ngx-ez-comp2": [
+        "dist/ngx-ez-comp2/ngx-ez-comp2",
+        "dist/ngx-ez-comp2"
       ]
     },
     "noImplicitOverride": true,

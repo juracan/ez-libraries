@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { EzH1Component } from './ez-h1.component';
+import { NgxEzH1Component } from './ngx-ez-h1.component';
 
-describe('EzH1Component', () => {
-  let component: EzH1Component;
-  let fixture: ComponentFixture<EzH1Component>;
+describe('NgxEzH1Component', () => {
+  let component: NgxEzH1Component;
+  let fixture: ComponentFixture<NgxEzH1Component>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ EzH1Component ]
+      declarations: [ NgxEzH1Component ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(EzH1Component);
+    fixture = TestBed.createComponent(NgxEzH1Component);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

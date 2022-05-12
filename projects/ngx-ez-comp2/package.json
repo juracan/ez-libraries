@@ -1,7 +1,6 @@
 {
-  "name": "ngx-ez-components",
-  "version": "0.0.2",
-  "private": false,
+  "name": "ngx-ez-comp2",
+  "version": "0.0.4",
   "peerDependencies": {
     "@angular/common": "^13.1.0",
     "@angular/core": "^13.1.0"
